@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <Folder Include="DomainServices\" />
+    <Folder Include="DTO\" />
+    <Folder Include="Aggregates\" />
   </ItemGroup>
 
 </Project>
